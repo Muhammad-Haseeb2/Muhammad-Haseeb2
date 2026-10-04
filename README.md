@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Introduction:
 🚀 Muhammad Haseeb | AI & Software Developer<br>Building clean, efficient, and innovative solutions in AI, Python, and Java OOP. Passionate about scalable software, smart APIs, and hands-on problem solving. Driven to create impactful, real-world technology.
 
 
